@@ -218,4 +218,5 @@ __marimo__/
 .streamlit/secrets.toml
 
 # dataset
-breast-cancer/
+breast-cancer
+.copy_photos.py
