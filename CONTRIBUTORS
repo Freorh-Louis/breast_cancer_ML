@@ -1,0 +1,10 @@
+LOUIS VINCENT (Freorh-Louis)
+BASTIEN FREDENUCCI (Bastiencpe)
+JUSTINE CURIE (bubulito-projects)
+
+Le projet a été réalisé en commun par les trois membres :
+- choix du sujet, du jeu de données et préparation des données ;
+- conception du CNN et rédaction du notebook principal (src/project.ipynb) ;
+- expérimentations : chaque membre a lancé ses propres entraînements séparémment en faisant varier les hyperparamètres ;
+- sélection du modèle final : le run retenu est celui ayant obtenu les meilleurs résultats sur la validation (louis_run_17, Louis Vincent) ;
+- évaluation, analyse des résultats et rédaction finale.
